@@ -1,4 +1,4 @@
-# Group-9-cyber-security-prject
+# Group-9-cyber-security-project
 # Project Proposal: AI-Enhanced Intrusion Detection System (IDS)
 
 ## 1. Project Title
