@@ -1,5 +1,4 @@
 # Group-9-cyber-security-project
-Training and evaluation data will include both synthetic and real-world message samples, with attention to colloquial expressions and common scam patterns.
 
 ---
 # LocalPhishingDetector: A Proposal for Offline Phishing Detection in Ethiopian Languages
