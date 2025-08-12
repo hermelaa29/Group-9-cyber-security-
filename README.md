@@ -85,7 +85,6 @@ The system will be tested and evaluated on the following language-script combina
 | Amharic | Ge'ez | Primary focus |
 | Amharic | Latinized | Common in informal messaging |
 | Tigrinya | Ge'ez | Secondary focus |
-| Tigrinya | Latinized | Informal usage |
 | Oromo | Latin | Official orthography |
 | Somali | Latin | Official orthography |
 ## 6. User Interaction Model
