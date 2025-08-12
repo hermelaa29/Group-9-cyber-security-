@@ -1,11 +1,11 @@
 # Group-9-cyber-security-project
 
----
-# LocalPhishingDetector: A Proposal for Offline Phishing Detection in Ethiopian Languages
+
+# LocalPhishingDetector: A Proposal for a local AI based Phishing Detection in Ethiopian Languages
 
 ## 1. Overview
 
-This document outlines a technical proposal for a local, offline-capable system designed to detect phishing messages in digital communications, with a focus on Ethiopian languages. The system is intended to operate without reliance on cloud services, preserving user privacy and enabling deployment in low-connectivity environments.
+This document outlines a technical proposal for a local system designed to detect phishing messages in digital communications, with a focus on Ethiopian languages. The system is intended to operate without reliance on cloud services, preserving user privacy and enabling deployment in low-connectivity environments.
 
 The primary communication platform under consideration is Telegram, with an initial focus on detecting phishing in direct messages and group chats. The system will support multiple Ethiopian languages, including Amharic, Tigrinya, Oromo, and Somali, in both native scripts (e.g., Ge'ez) and Latinized (romanized) forms.
 
@@ -33,7 +33,7 @@ Current phishing detection tools exhibit several shortcomings in the Ethiopian c
 - Script handling: Few systems support Ge'ez script or recognize Latinized variants (e.g., "kemey?" for ከመይ?).
 - Connectivity dependence: Cloud-based AI models require stable internet, limiting usability in rural or low-infrastructure areas.
 
-There is currently no publicly available tool that provides offline, privacy-preserving phishing detection for Ethiopian language messages.
+There is currently no publicly available tool that provides a local, privacy-preserving phishing detection for Ethiopian language messages.
 
 ---
 
@@ -43,7 +43,7 @@ The project aims to develop a system with the following capabilities:
 
 1. Detect phishing content in text messages written in Amharic, Tigrinya, Oromo, and Somali.
 2. Support both Ge'ez script and Latinized orthographies.
-3. Operate entirely offline, with no external data transmission.
+3. Operate entirely locally.
 4. Integrate with Telegram through a bot interface.
 5. Provide real-time feedback to users without storing message content.
 
@@ -170,7 +170,7 @@ The system is not expected to achieve 100% accuracy, especially in early version
 
 ## 11. Conclusion
 
-This project addresses a gap in digital security tools for Ethiopian language users by proposing a local, offline, and privacy-preserving approach to phishing detection. By leveraging recent advances in small language models and focusing on real-world usage patterns, the system aims to provide practical support in environments where connectivity, literacy, and trust are key constraints.
+This project addresses a gap in digital security tools for Ethiopian language users by proposing a local and privacy-preserving approach to phishing detection. By leveraging recent advances in small language models and focusing on real-world usage patterns, the system aims to provide practical support in environments where connectivity, literacy, and trust are key constraints.
 
 The use of message forwarding to a local bot provides a feasible and ethical method for user interaction, avoiding automated surveillance while still enabling timely feedback.
 
