@@ -69,51 +69,31 @@ Future expansion:
 - **Somali** (Latin script)
 ## 🗺️ Project Roadmap
 
-### **Phase 1: Data Foundation** *(Current Phase - December 2024)*
+### **Phase 1: Data Foundation** 
 - Collect 5,000+ Amharic message samples
 - Label 1,000+ messages using Doccano (500 phishing, 500 legitimate)
 - Create clean, balanced dataset for training
 - Establish data quality validation process
 
-### **Phase 2: Model Development** *(January 2025)*
+### **Phase 2: Model Development** 
 - Complete initial DistilBERT fine-tuning on Google Colab
 - Achieve 85%+ accuracy on validation set
 - Test model on Oromo and Somali samples
 - Develop confidence scoring system
 
-### **Phase 3: Local Deployment** *(February 2025)*
+### **Phase 3: Local Deployment** 
 - Build simple Python inference script
 - Create installation guide for Windows/Linux/Mac
 - Test on minimum hardware requirements
 - Develop batch processing capability for multiple messages
 
-### **Phase 4: User Interface** *(March 2025)*
+### **Phase 4: User Interface** 
 - Develop simple web interface (Flask/FastAPI)
 - Add file upload functionality for message batches
 - Implement real-time single message checking
 - Create result visualization dashboard
 
-### **Phase 5: Expansion & Scaling** *(April 2025+)*
-- Add support for Tigrinya language
-- Develop Telegram bot integration
-- Create Android app version
-- Explore browser extension possibilities
-- Implement model retraining pipeline
-
-### **Phase 6: Community & Sustainability** *(Ongoing)*
-- Open source the project on GitHub
-- Create documentation in Amharic and English
-- Develop contributor guidelines
-- Establish feedback mechanism for false positives/negatives
-
-## 🎯 How You Can Help
-We need help with:
-- Labeling data in Doccano (**anyone can help!**)
-- Collecting examples of Amharic phishing messages
-- Testing the system with real messages
-- Writing documentation and user guides
-
 ## 📊 Project Status
 - **Phase:** Active data labeling and model preparation  
 - **Current Focus:** Building high-quality Ethiopian language dataset  
-- **Team:** Looking for more contributors familiar with Ethiopian languages
+
